@@ -28,3 +28,6 @@ sudo apt install powertop
 
 # Install tlp
 sudo apt install tlp
+
+# Install Chinese Font Support
+sudo apt-get install fonts-wqy-zenhei
