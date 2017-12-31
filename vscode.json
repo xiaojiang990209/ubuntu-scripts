@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Inconsolata for Powerline','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 16,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "editor.lineHeight": 20,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.preserveFocus": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true
+}
